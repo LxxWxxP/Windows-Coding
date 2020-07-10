@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: lwp544 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Liwei\AppData\Local\Temp\RSP7B06.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/lwp544.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\计算机学习\代码\Windows编程\提交\lwp544\lwp544.cpp"
+"D:\计算机学习\代码\Windows编程\提交\lwp544\lwp544View.cpp"
+]
+Creating command line "cl.exe @C:\Users\Liwei\AppData\Local\Temp\RSP7B06.tmp" 
+Creating temporary file "C:\Users\Liwei\AppData\Local\Temp\RSP7B07.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/lwp544.pdb" /debug /machine:I386 /out:"Debug/lwp544.exe" /pdbtype:sept 
+".\Debug\lwp544.obj"
+".\Debug\lwp544Doc.obj"
+".\Debug\lwp544View.obj"
+".\Debug\MainFrm.obj"
+".\Debug\MyDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\lwp544.res"
+]
+Creating command line "link.exe @C:\Users\Liwei\AppData\Local\Temp\RSP7B07.tmp"
+<h3>Output Window</h3>
+Compiling...
+lwp544View.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+lwp544.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+lwp544.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
